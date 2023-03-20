@@ -20,6 +20,6 @@
 - M5StickCでは書き込み時にGND接続を外して下さい。
 - M5Stickは、M5StackとLEDの電圧設定が逆です。
 
-# version History
+# Version History
 - v1.0.0 - 23/3/15 release
 - v1.0.1 - 23/3/20 define JA name
