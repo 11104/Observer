@@ -1,4 +1,4 @@
-# Observer v1.0
+## 見守り当番 Observer v1.0.1
 一定時間ドアの開閉が行われなかった時、LINEに通知します。
 高齢者の見守り装置としての使用を想定しています。
 
@@ -14,8 +14,12 @@
 26番ピンとGNDピンに磁気ドアスイッチを差し込み、ドアに設置します。
 電源を入れると「.」とだけ表示されます。
 
-解説記事-->"[【高齢化社会】M5Stickで高齢者の見守り装置を作った。[Observer]](https://qiita.com/nih/items/a832ae7ad478fdb6e4ab)"
+解説記事-->"[【高齢化社会】M5Stickで高齢者の見守り装置を作った。[見守り当番]](https://qiita.com/nih/items/a832ae7ad478fdb6e4ab)"
 
 # Attention
 - M5StickCでは書き込み時にGND接続を外して下さい。
 - M5Stickは、M5StackとLEDの電圧設定が逆です。
+
+# version History
+- v1.0.0 - 23/3/15 release
+- v1.0.1 - 23/3/20 define JA name
